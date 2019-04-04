@@ -8,7 +8,4 @@ public interface List {
     Integer get(int index);
     int length();
     void printArray();
-
-
-
 }
