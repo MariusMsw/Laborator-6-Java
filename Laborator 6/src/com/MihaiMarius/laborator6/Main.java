@@ -16,8 +16,5 @@ public class Main {
         listaOrdonata.removeAll(7);
         listaOrdonata.printArray();
         System.out.println(listaOrdonata.get(7));
-
-
-
     }
 }
